@@ -1,6 +1,6 @@
 /** @jsx React.DOM */
 
-var React = require('react');
+var React = require('../../thirdparty/react');
 
 var AnimatableContainer = require('../../primitives/AnimatableContainer');
 var LeftNavBehaviors = require('./LeftNavBehaviors');

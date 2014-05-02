@@ -1,6 +1,6 @@
 /** @jsx React.DOM */
 
-var React = require('react');
+var React = require('../thirdparty/react');
 
 var StaticContainer = require('./helpers/StaticContainer');
 var StyleKeys = require('../environment/StyleKeys');

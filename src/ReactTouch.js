@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('./thirdparty/react');
 
 var Router = require('./routing/Router');
 
